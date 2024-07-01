@@ -1,2 +1,2 @@
 # OIBSIP
-This is the Oasis Project 1
+This is Oasis Project 1 Repository
